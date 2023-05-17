@@ -189,15 +189,16 @@
 }
 
 .btn {
+  /* position: absolute; */
   cursor: pointer;
   display: inline-block;
   width: 100%;
-  background: #1e0e62;
+  background-color: #1e0e62;
   border: 0;
   padding: 15px;
   font-family: inherit;
   font-size: 30px;
-  border-radius: 10px;
+  border-radius: 30%;
 }
 
 .btn:focus {

@@ -110,6 +110,10 @@
   border-radius: 10px;
 }
 
+.fa-magnifying-glass {
+  padding: 23px;
+}
+
 .txt {
   position: absolute;
   width: 225px;
