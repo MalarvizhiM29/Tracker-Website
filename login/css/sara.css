@@ -6,6 +6,13 @@
   background: #ffffff;
 }
 
+.profile {
+  position: relative;
+  width: 100%;
+  height: 1690px;
+
+  background: #ffffff;
+}
 /* navbar */
 .navbar {
   position: absolute;
@@ -178,7 +185,7 @@
 .teacher {
   position: absolute;
   width: 771px;
-  height: 658.58px;
+  height: 548.58px;
   left: 335px;
   top: 216px;
 }
@@ -240,7 +247,7 @@ FFFFFF
   left: 323px;
   top: 73.42px;
 
-  background: url(.jpg), url(images/image1.jpg);
+  /* background: url(.jpg), url(images/image1.jpg); */
   /* White */
 
   border: 1.58963px solid #ffffff;
@@ -269,6 +276,248 @@ FFFFFF
   height: 51.28px;
   left: 328.75px;
   top: 444.38px;
+}
+
+.g7079 {
+  position: absolute;
+  width: 658px;
+  height: 65.02px;
+  left: 391px;
+  top: 855px;
+}
+
+.send {
+  position: absolute;
+  height: 65.02px;
+  left: 63.21%;
+  right: 27.15%;
+  bottom: 769.98px;
+}
+
+.background {
+  position: absolute;
+  left: 0px;
+  right: 0.61px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.bg {
+  position: absolute;
+  left: 0px;
+  right: 0.18px;
+  top: 0px;
+  bottom: 0.02px;
+
+  background: #6496eb;
+  /* 16 dp • Dark shadow */
+
+  box-shadow: 0px 8px 24px rgba(38, 50, 56, 0.1),
+    0px 16px 32px rgba(38, 50, 56, 0.08);
+  border-radius: 13.0045px;
+}
+
+.add {
+  position: absolute;
+  left: 45.78px;
+  right: 12.83px;
+  top: 20px;
+  bottom: 6px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19.5068px;
+  line-height: 29px;
+  /* or 150% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.203196px;
+
+  /* White */
+
+  color: #ffffff;
+
+  text-shadow: 0px 1.63275px 9.79653px rgba(38, 50, 56, 0.08);
+}
+
+.g85 {
+  position: absolute;
+  width: 243.28px;
+  height: 59.6px;
+  left: 650.61px;
+  top: 857.45px;
+
+  filter: drop-shadow(0px -0.816377px 5.71464px rgba(0, 0, 0, 0.25));
+}
+
+.g84 {
+  position: absolute;
+  width: 243.28px;
+  height: 59.6px;
+  left: 391px;
+  top: 857.45px;
+
+  filter: drop-shadow(0px -0.816377px 5.71464px rgba(0, 0, 0, 0.25));
+}
+
+.det {
+  position: absolute;
+  width: 93.07px;
+  height: 14.69px;
+  top: 880px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22.8586px;
+  line-height: 11px;
+  /* or 46% */
+
+  letter-spacing: 0.01em;
+
+  color: #000000;
+
+  opacity: 0.5;
+}
+
+.expense {
+  left: 463px;
+}
+
+.amount {
+  left: 726px;
+}
+
+.rect {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 243.28px;
+  height: 59.6px;
+
+  background: #ffffff;
+  opacity: 0.7;
+  /* light blue */
+
+  border-bottom: 0.816377px solid rgba(21, 20, 57, 0.4);
+  border-radius: 16.3275px;
+}
+
+.rect1 {
+  left: 391px;
+  top: 857.45px;
+}
+
+.rect2 {
+  left: 650.61px;
+  top: 857.45px;
+}
+
+.g7090 {
+  position: absolute;
+  width: 555.28px;
+  height: 321px;
+  left: 442px;
+  top: 989px;
+}
+
+.g7087 {
+  position: absolute;
+  width: 555.28px;
+  height: 67px;
+  left: 442px;
+  top: 1243px;
+}
+
+.g7089 {
+  position: absolute;
+  width: 40px;
+  height: 48px;
+  left: 665px;
+  top: 1253px;
+}
+
+.dots {
+  position: absolute;
+  width: 40px;
+  height: 48px;
+  left: 665px;
+  top: 1251px;
+
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.g7088 {
+  position: absolute;
+  width: 6px;
+  height: 21px;
+  left: 17px;
+  top: 26px;
+
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt1 {
+  position: absolute;
+  left: 29.69%;
+  right: 54.44%;
+  top: 74.47%;
+  bottom: 22.57%;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 33px;
+
+  color: #333333;
+
+  opacity: 0.9;
+}
+
+.g86 {
+  position: absolute;
+  width: 243.28px;
+  height: 59.6px;
+  left: 754px;
+  top: 1247px;
+
+  filter: drop-shadow(0px -0.816377px 5.71464px rgba(0, 0, 0, 0.25));
+}
+
+.g7094 {
+  position: absolute;
+  width: 115px;
+  height: 51.22px;
+  left: 805px;
+  top: 1251px;
+}
+
+.t {
+  position: absolute;
+  width: 64px;
+  height: 16px;
+  left: 830px;
+  top: 1269px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22.8586px;
+  line-height: 11px;
+  /* or 46% */
+
+  letter-spacing: 0.01em;
+
+  color: #6496eb;
+}
+
+.rect3 {
+  left: 754px;
+  top: 1247px;
 }
 
 /* footer */
